@@ -13,16 +13,15 @@ graph LR
 A[Source function] -->B[Vocal Tract/Transfer function] 
 B --> C[Speech Signal]
 ```
+'''mermaid
+graph LR
+A[Source function] -->B[Vocal Tract or Transfer function] 
+B --> C[Speech Signal]
+'''
 
-\(Children Speech are hard to recognition
+Children Speech are hard to recognition
 
-\(\* mermaid \*\)
-
-```
 {% mermaid %}
 graph TD;  A-->B; A-->C;  B-->D;  C-->D;
 {% endmermaid %}
-```
-
-
 
