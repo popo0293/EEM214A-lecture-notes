@@ -8,11 +8,25 @@
 > * Entertainment industry
 > * Automatic Speech Recognition \(ASR\)
 
-```mermaid
+```py
 graph LR
 A[Source function] -->B[Vocal Tract or Transfer function] 
     B --> C[Speech Signal]
 ```
 
-\(Children Speech are hard to recognize\)
+\(Children Speech are hard to recognition
+
+\(\* mermaid \*\)
+
+```
+{% mermaid %}
+graph TD;  A-->B; A-->C;  B-->D;  C-->D;
+{% endmermaid %}
+```
+
+
+
+
+
+
 
