@@ -11,10 +11,25 @@
 ```mermaid
 graph LR
 A[Source function] -->B[Vocal Tract\/Transfer function] 
-    B --> C[Speech Signal]```
+    B --> C[Speech Signal]
 ```
 
+    ​```mermaid
 
+    graph LR
+    A[Hard edge] --
+    >
+    B(Round edge)
+        B --
+    >
+     C{Decision}
+        C --
+    >
+    |One| D[Result one]
+        C --
+    >
+    |Two| E[Result two]
+    ​```
 
 \(Children Speech are hard to recognize\)
 
