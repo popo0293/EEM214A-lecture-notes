@@ -10,8 +10,8 @@
 
 {% mermaid %}
 graph LR
-A[Source function] -->B[Vocal Tract/Transfer function];
-B --> C[Speech Signal];
+A[Source function]-->B[Vocal Tract/Transfer function];
+B--> C[Speech Signal];
 {% endmermaid %}
 
 
