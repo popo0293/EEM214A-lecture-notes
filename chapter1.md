@@ -8,5 +8,7 @@
 > * Entertainment industry
 > * Automatic Speech Recognition \(ASR\)
 
+Source function -&gt; Vocal Tract/ Transfer function -&gt; Speech Signal
+
 
 
