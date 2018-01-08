@@ -21,4 +21,4 @@ B->C:hello
 C->A:hello
 ```
 
-\(Children Speech are hard to recognition
+\(Children Speech are hard to recognition)
