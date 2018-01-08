@@ -8,7 +8,7 @@
 > * Entertainment industry
 > * Automatic Speech Recognition \(ASR\)
 
-```py
+```mermaid
 graph LR
 A[Source function] -->B[Vocal Tract or Transfer function] 
     B --> C[Speech Signal]
@@ -23,10 +23,6 @@ A[Source function] -->B[Vocal Tract or Transfer function]
 graph TD;  A-->B; A-->C;  B-->D;  C-->D;
 {% endmermaid %}
 ```
-
-
-
-
 
 
 
