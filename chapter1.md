@@ -13,6 +13,13 @@ graph LR
 A[Source function] -->B[Vocal Tract/Transfer function] 
 B --> C[Speech Signal]
 ```
+
+```sequence
+A->B:hello 
+B->C:hello
+C->A:hello
+```
+
 '''mermaid
 graph LR
 A[Source function] -->B[Vocal Tract or Transfer function] 
