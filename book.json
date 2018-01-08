@@ -1,4 +1,4 @@
 {
-"plugins": ["autocover", "mathjax", "mermaid-full@>=0.5.1"],
+"plugins": ["autocover", "mathjax", "mermaid-full@>=0.5.1", "mermaid"],
 "pluginsConfig": {}
 }
