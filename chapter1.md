@@ -10,5 +10,7 @@
 
 Source function -&gt; Vocal Tract/ Transfer function -&gt; Speech Signal
 
+\(Children Speech are hard to recognize\)
+
 
 
