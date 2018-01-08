@@ -8,15 +8,12 @@
 > * Entertainment industry
 > * Automatic Speech Recognition \(ASR\)
 
-\`\`\`mermaid
-
+```mermaid
 graph LR
-
-A\[Source function\] --&gt; B\[Vocal Tract/ Transfer function\] --&gt; C\[Speech Signal\]
-
-\`\`\`
+A[Source function] -->B[Vocal Tract\/Transfer function] 
+    B --> C[Speech Signal]
+```
+```
 
 \(Children Speech are hard to recognize\)
-
-
 
