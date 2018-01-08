@@ -9,7 +9,7 @@
 > * Automatic Speech Recognition \(ASR\)
 
 {% mermaid %}
-graph LR
+graph LR;
 A[Source function]-->B[Vocal Tract/Transfer function];
 B--> C[Speech Signal];
 {% endmermaid %}
